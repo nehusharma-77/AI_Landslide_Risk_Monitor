@@ -1,0 +1,11 @@
+rainfall,soil_moisture,temperature,humidity,soil_tilt,risk
+12.5,35,24,65,2.5,LOW
+18.2,42,25,68,2.5,LOW
+25.7,51,23,72,3.2,LOW
+34.5,60,22,76,4.1,MEDIUM
+45.2,68,22,78,5.4,MEDIUM
+52.8,73,21,81,6.2,MEDIUM
+61.4,79,21,84,7.5,HIGH
+72.6,84,20,86,8.9,HIGH
+85.3,89,20,88,10.5,HIGH
+92.7,91,19,90,11.8,HIGH
